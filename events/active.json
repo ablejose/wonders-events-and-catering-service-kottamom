@@ -1,0 +1,32 @@
+{
+  "slug": "wonders-events-and-catering-service-kottamom",
+  "name": "Wonders Events AND Catering Service",
+  "shortName": "Wonders",
+  "descriptor": "Catering & Events",
+  "address": "Kumbhamvila, Kottamom, Arayur, Keralam 695122",
+  "area": "Kumbhamvila",
+  "city": "Kottamom",
+  "district": "Thiruvananthapuram",
+  "region": "Kerala",
+  "postalCode": "695122",
+  "geo": {
+    "lat": 8.3677789,
+    "lng": 77.131074
+  },
+  "mapsLink": "https://maps.google.com/?cid=8891642235879259718",
+  "phone": "+91 80783 31644",
+  "whatsapp": "918078331644",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 5,
+  "reviewCount": 2,
+  "reviews": [],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp"
+  ],
+  "url": "https://wonders-events-and-catering-service.vercel.app"
+}
